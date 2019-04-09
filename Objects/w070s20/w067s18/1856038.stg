@@ -58,3 +58,5 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml -66.16752439 -17.42
 OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml -66.16813685 -17.42489625 2559.8555 235.8 0.0 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml -66.16916402 -17.42405117 2559.6627 235.8 0.0 -0.0
 
+OBJECT_SHARED Models/Airport/grille.xml -66.17827827 -17.41572163 2560.6484 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -66.17819343 -17.41579485 2560.5826 48.0 0.0 -0.0
