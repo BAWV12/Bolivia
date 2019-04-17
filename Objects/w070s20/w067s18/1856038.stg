@@ -60,3 +60,15 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml -66.16916402 -17.42
 
 OBJECT_SHARED Models/Airport/grille.xml -66.17827827 -17.41572163 2560.6484 48.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/grille.xml -66.17819343 -17.41579485 2560.5826 48.0 0.0 -0.0
+
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.16489572 -17.40596355 2565.6608 60.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.16560884 -17.40658703 2567.1684 128.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.15976041 -17.42832547 2566.1224 136.0 0.0 -0.4
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.17240119 -17.43394449 2560.6884 136.0 0.0 -0.4
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.16252312 -17.44213063 2563.4342 136.0 0.0 -0.4
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.18970880 -17.43529329 2556.9479 228.0 0.0 --0.1
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.18000653 -17.43511759 2557.8399 228.0 0.0 --0.1
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.18803615 -17.42289330 2559.4785 228.0 0.0 --0.1
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.19637886 -17.41268811 2559.7745 140.0 0.0 --0.1
+OBJECT_SHARED Models/Residential/suburban-area.xml -66.18675635 -17.40499394 2557.7623 140.0 0.0 -0.0
+
